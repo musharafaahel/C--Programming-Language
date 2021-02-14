@@ -1,0 +1,49 @@
+C was developed by Dennis Ritchie in the year 1972 at Bell Labouratories.
+It was mainly developed for writing Operating Systems UNIX
+
+
+FEATURES OF C LANGUAGE :-
+1. Simple
+2. Structured
+3. Memory Management
+4. Fast Speed
+5. Extensible
+6. Machine Independent
+
+
+COMPILER   Translates program to binary language.
+           COMPILATION
+PROGRAM--->Complied file--->Run 
+
+
+1.stdio.h---standard input/output .header file.
+2.string.h----string.header file.
+
+define ---- to define constant.
+
+
+comment section
+link section
+global declartion
+define section
+main section
+sub program section
+
+
+Variable naming rule
+1.all alphabets can be used
+2.underscore can also be used
+3.can't start with numbers
+4.case sensitive.
+5.can't use c predefined keywords
+
+
+DATA TYPES
+
+int   values 1-9
+char  a-z A-Z  +*-/ @#$%^&*(){}[];:'"<>,.?/!~`
+float 2.3, 2.12345678912345678912
+double 3.upto 40 or 50
+
+
+%d---stands for interger
