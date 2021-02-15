@@ -47,3 +47,37 @@ double 3.upto 40 or 50
 
 
 %d---stands for interger
+%f---stands for float
+
+
+
+
+printf("",) to give output 
+
+scanf("",) to get input from user
+
+& (ampecend) ---address of operator
+
+
+1.Each instruction in c program is written in seperate statements.
+2.The statements in a program must appear in the same orderin which we wish them to be execute.
+3.Blank spaces may  be inserted between two words to improve the readability of the statement, howerver no blank spaces are allowed within variables, constant or keyword.
+4.All the statements are entered in small case letters.
+ i.e  a-z
+5.C has no specific rules for the position for which the statements to be written. That's why it is called as free-form language
+6.Every C statements must end with a ; thus ; acts as a terminators.
+
+
+Calculating Simple interest.
+
+SI = p*t*r/100 ---->Formula
+
+p--->amount
+t--->time
+r--->rate of interest
+
+Board mass rule
+according to precendence value operation are done
+/ *
++ -
+
