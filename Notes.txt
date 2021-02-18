@@ -98,7 +98,70 @@ x>=y
 x<=y
 
 
-IF CONDITION
+CONDITIONAL STATEMENT PART 2
+
+if block
+nested if else
+forms of if
+or and not -pass/fail problem
+insurance problem
+CONDITIONAL OPERATOR -? and:
+
+Block statement is bunch of statements(multiple lines of statement)
+
+
+syntax for if
 
 if(condition)
+{
+statement;
+}
+
+syntax of if else
+
+if(condition)
+{
+statement;
+}
+else
+{
+statement;
+}
+
+
+NESTED IF STATEMENTS
+
+syntax
+
+if(condition)
+{
+	if(condition)
+	{
+		statement;
+	}
+}
+else
+{
 	statement;
+}
+
+else
+{
+statement;
+}
+
+
+
+OR , AND , NOT
+
+OR ----  ||
+AND----  &&
+NOT----  !
+
+
+CONDTIONAL OPERATOR or THREE PARAMETER OPERATOR
+
+? :
+syntax
+
+condition?statement(true):statement(false);
