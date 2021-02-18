@@ -1,7 +1,7 @@
 C was developed by Dennis Ritchie in the year 1972 at Bell Labouratories.
 It was mainly developed for writing Operating Systems UNIX
 
-ccc
+
 FEATURES OF C LANGUAGE :-
 1. Simple
 2. Structured
