@@ -165,3 +165,28 @@ CONDTIONAL OPERATOR or THREE PARAMETER OPERATOR
 syntax
 
 condition?statement(true):statement(false);
+
+
+LOOPING STRUCTURE
+1.WHILE LOOP
+2.FOR LOOP
+
+understanding looping statements
+while loop structure
+simple interest example
+multiplication table example
+different forms of while
+
+why are computers introduced
+
+computer was introduced because people fed up with repetitive task.
+
+
+syntax of while
+
+initialize;
+while(condition)
+	{
+		statement;
+		increment/decrement; or iteration;
+	}
