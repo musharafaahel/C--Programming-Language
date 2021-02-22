@@ -207,3 +207,24 @@ maximum number int can store is 32767 (now 2147483647)
 
 
 minimum number int can store is -32767  (now -2147483647)
+
+
+THE "FOR" LOOP
+
+INTRODUCTION
+SIMPLE INTEREST PROBLEM
+DIFFERENT CASES
+ 	1.No initialization
+	2.No increment /decrement
+Multiplication table problem
+
+Syntax for "for" loop
+
+for(initialization;codition;iteration)
+{
+statement;
+}
+
+nested looping
+
+inside one forloop another forloop is their
