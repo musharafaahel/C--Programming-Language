@@ -1,4 +1,4 @@
-C was developed by Dennis Ritchie in the year 1972 at Bell Labouratories.
+C was developed by Dennis Ritchie in the year 1972 at Bell Labouratories in USA.
 It was mainly developed for writing Operating Systems UNIX
 
 
