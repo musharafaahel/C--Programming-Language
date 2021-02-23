@@ -228,3 +228,16 @@ statement;
 nested looping
 
 inside one forloop another forloop is their
+
+MORE ABOUT LOOPING
+1. break - prime number
+2. continue -same i, j value
+3. exit - prime number problem
+4."do while loop"------executes atleast one
+5. odd looping with the square of a number
+
+
+
+break -to exit the loop
+
+exit(0)
