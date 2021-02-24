@@ -30,7 +30,7 @@ main section
 sub program section
 
 
-   Variable naming rule
+     Variable naming rule
 1.all alphabets can be used
 2.underscore can also be used
 3.can't start with numbers and special characters.
