@@ -1,4 +1,4 @@
-C was developed by Dennis Ritchie in the year 1972 at Bell Labouratories in USA.
+C    was developed by Dennis Ritchie in the year 1972 at Bell Labouratories in USA.
 It was mainly developed for writing Operating Systems UNIX
 
 
@@ -209,7 +209,7 @@ maximum number int can store is 32767 (now 2147483647)
 minimum number int can store is -32767  (now -2147483647)
 
 
-THE "FOR" LOOP
+THE "FOR" LOOP ----
 
 INTRODUCTION
 SIMPLE INTEREST PROBLEM
