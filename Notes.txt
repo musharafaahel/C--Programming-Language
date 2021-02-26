@@ -241,3 +241,34 @@ MORE ABOUT LOOPING
 break -to exit the loop
 
 exit(0)
+
+
+CASE CONTROL STRUCTURE
+
+INTRODUCTION WITH EXAMPLES
+CALCULATOR PROBLEM WITH IF ELSE
+CALCULATOR WITH SEITCH
+
+
+SYNTAX OF SWITCH
+
+switch(expression)
+{
+case condition1:
+	statements;
+	break;
+case condition2:
+	statements;
+	break;
+
+case conditionN:
+	statements;
+	break;
+
+default:
+	statements;
+	break;
+}
+
+
+switch and case are keyword
