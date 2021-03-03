@@ -3,7 +3,7 @@ It was mainly developed for writing Operating Systems UNIX
 
 
 FEATURES OF C LANGUAGE :-
-1. Simple
+1.   Simple
 2. Structured
 3. Memory Management
 4. Fast Speed
