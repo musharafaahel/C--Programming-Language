@@ -22,7 +22,7 @@ PROGRAM RUN TOP TO BOTTOM LINE BY LINE
 define ---- to define constant.
 
 
-comment section
+ comment section
 link section
 global declartion
 define section
