@@ -1,4 +1,4 @@
-  C    was developed by Dennis Ritchie in the year 1972 at Bell Labouratories in USA.
+  C    w as developed by Dennis Ritchie in the year 1972 at Bell Labouratories in USA.
 It was mainly develop ed for writing Operating Systems UNIX
 
 
