@@ -10,7 +10,9 @@ FEATURES OF C LANGUAGE :-
 5. Extensible
 6. Machine Independent
 
-
+ 
+ 
+ 
 COMPILER   Translates program to binary language.
            COMPILATION
 PROGRAM--->Complied file--->Run 
