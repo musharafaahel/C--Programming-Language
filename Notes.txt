@@ -32,6 +32,8 @@ main section
 sub program section
 
 
+
+
       Va riable naming rule
 1.all alphabets can be used
 2.underscore c an also be used
